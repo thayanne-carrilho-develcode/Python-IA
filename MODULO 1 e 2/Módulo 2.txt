@@ -1,0 +1,43 @@
+AMBIENTE VIRTUAL
+
+entrar na pasta - cd estatistica_devs
+
+pipenv install pandas -- python 3.11.0 ou 3.10.5
+
+pipenv shell (para rodar)
+
+python 
+
+import pandas as pd 
+
+print(pd.__version__) (versão do pandas)
+
+exit()
+
+Ir para o visual code
+
+criar newfile - estatistica_devs.ipynb
+
+
+select Kernel do lado direito
+python enviroments 
+estatistica_devs
+no lugar aparece o nome da pasta e tipo de python
+
+
+
+no arquivo
+
+import pandas as pd 
+rodar ao lado
+instalar pacote q aparecer 
+aparece o check
+
+pd.__version__
+roda do play
+2.1.0 aparecerá isso
+
+
+
+
+
